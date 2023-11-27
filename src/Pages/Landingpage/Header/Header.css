@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+#head{
+    width: 100%;
+    height: 976px;
+    flex-shrink: 0;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.33) 0%, rgba(0, 0, 0, 0) 100%), url(/home/murthy/Tripbae/tripbae1/src/Assets/Rectangle.png), lightgray 50% / cover no-repeat;
+}
+
+.frame134{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 50px;
+    padding-left: 179px;
+}
+.group1{
+    width: 1042px;
+    height: 178px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Volkhov;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100px; /* 125% */
+}
+.group2{
+    width: 1032px;
+height: 154px;
+color: #FFF;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 50px; /* 166.667% */
+padding-top: 50px;
+padding-left: 5px;
+}
+.tripbae{
+color: #FFF;
+font-family: Volkhov;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 50px;
+
+}
